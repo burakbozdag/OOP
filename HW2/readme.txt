@@ -1,0 +1,1 @@
+main() function has a non-commented "return 0;" line in order to pass from the compiling test. You can make whole main() function as a comment when including "assignment2.cpp".
